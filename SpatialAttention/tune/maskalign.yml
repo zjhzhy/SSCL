@@ -1,0 +1,20 @@
+authorName: seven
+experimentName: maskalign
+trialConcurrency: 1
+maxExecDuration: 72h
+maxTrialNum: 50
+trainingServicePlatform: local
+useAnnotation: false
+searchSpacePath: sp_maskalign.json
+
+tuner:
+  builtinTunerName: GridSearch
+localConfig:
+  useActiveGpu: true
+  maxTrialNumPerGpu: 1
+  gpuIndices: '0'
+trial:
+  command: python3 raf_maskalign.py
+  codeDir: .
+  gpuNum: 1
+

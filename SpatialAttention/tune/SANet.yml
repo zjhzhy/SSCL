@@ -1,0 +1,18 @@
+authorName: seven
+experimentName: pretrained_rafvit384
+trialConcurrency: 2
+maxExecDuration: 72h
+maxTrialNum: 50
+trainingServicePlatform: local
+useAnnotation: true
+tuner:
+  builtinTunerName: GridSearch
+localConfig:
+  useActiveGpu: true
+  maxTrialNumPerGpu: 1
+  gpuIndices: '0,1'
+trial:
+  command: python3 raf_vit.py --tune attention
+  codeDir: .
+  gpuNum: 1
+
