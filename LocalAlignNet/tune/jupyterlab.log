@@ -1,0 +1,202 @@
+nohup: ignoring input
+[I 20:12:20.754 LabApp] JupyterLab extension loaded from /home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab
+[I 20:12:20.754 LabApp] JupyterLab application directory is /home/b3432/anaconda3/envs/seven/share/jupyter/lab
+[I 20:12:20.755 LabApp] Serving notebooks from local directory: /home/b3432/Code/experiment/zhujunhao/workspace/MoPro/LocalAlignNet/tune
+[I 20:12:20.755 LabApp] Jupyter Notebook 6.1.6 is running at:
+[I 20:12:20.755 LabApp] http://125.216.241.246:7070/
+[I 20:12:20.756 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:12:28.057 LabApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.062 LabApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.081 LabApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.085 LabApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.097 LabApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.103 LabApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.115 LabApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.120 LabApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.143 LabApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.146 LabApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.267 LabApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.271 LabApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.309 LabApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.325 LabApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.335 LabApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.347 LabApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.390 LabApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.454 LabApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.510 LabApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.514 LabApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.532 LabApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.537 LabApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.547 LabApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.553 LabApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.565 LabApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.571 LabApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.594 LabApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.597 LabApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.680 LabApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.685 LabApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.725 LabApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.740 LabApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.750 LabApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.762 LabApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.782 LabApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:12:28.846 LabApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 20:12:28.858 LabApp] Build is up to date
+[W 20:12:28.858 LabApp] 404 GET /api/contents/dacl/main.py?content=0&1620821548483 (125.216.241.119): No such file or directory: dacl/main.py
+[W 20:12:28.858 LabApp] No such file or directory: dacl/main.py
+[W 20:12:28.858 LabApp] 404 GET /api/contents/dacl/main.py?content=0&1620821548483 (125.216.241.119) 1.180000ms referer=http://125.216.241.246:7070/lab?
+[W 20:12:28.858 LabApp] 404 GET /api/contents/dacl/workspace.py?content=0&1620821548483 (125.216.241.119): No such file or directory: dacl/workspace.py
+[W 20:12:28.858 LabApp] No such file or directory: dacl/workspace.py
+[W 20:12:28.858 LabApp] 404 GET /api/contents/dacl/workspace.py?content=0&1620821548483 (125.216.241.119) 1.180000ms referer=http://125.216.241.246:7070/lab?
+[W 20:12:29.388 LabApp] 404 GET /api/contents/dacl/models/resnet.py?content=0&1620821548484 (125.216.241.119): No such file or directory: dacl/models/resnet.py
+[W 20:12:29.388 LabApp] No such file or directory: dacl/models/resnet.py
+[W 20:12:29.388 LabApp] 404 GET /api/contents/dacl/models/resnet.py?content=0&1620821548484 (125.216.241.119) 0.830000ms referer=http://125.216.241.246:7070/lab?
+[W 20:12:29.396 LabApp] 404 GET /api/contents/dacl/models?1620821549392 (125.216.241.119): No such file or directory: dacl/models
+[W 20:12:29.396 LabApp] No such file or directory: dacl/models
+[W 20:12:29.396 LabApp] 404 GET /api/contents/dacl/models?1620821549392 (125.216.241.119) 0.930000ms referer=http://125.216.241.246:7070/lab?
+-\|[E 20:12:31.376 LabApp] Uncaught exception GET /lab/api/extensions?1620821548480 (125.216.241.119)
+    HTTPServerRequest(protocol='http', host='125.216.241.246:7070', method='GET', uri='/lab/api/extensions?1620821548480', version='HTTP/1.1', remote_ip='125.216.241.119')
+    Traceback (most recent call last):
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 221, in get
+        extensions = yield self.manager.list_extensions()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 221, in get
+        extensions = yield self.manager.list_extensions()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 91, in list_extensions
+        pkg_info = yield self._get_pkg_info(name, data)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 91, in list_extensions
+        pkg_info = yield self._get_pkg_info(name, data)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 160, in _get_pkg_info
+        outdated = yield self._get_outdated()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 160, in _get_pkg_info
+        outdated = yield self._get_outdated()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 191, in _load_outdated
+        data = yield self.executor.submit(
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+        return self.__get_result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+        raise self._exception
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+        result = self.fn(*self.args, **self.kwargs)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/commands.py", line 542, in get_latest_compatible_package_versions
+        return handler.latest_compatible_package_versions(names)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/commands.py", line 1683, in latest_compatible_package_versions
+        raise ValueError(msg % keys)
+    ValueError: "['@jupyterlab/toc@4.0.0', 'jupyterlab-spreadsheet@0.3.2', '@kiteco/jupyterlab-kite@1.2.0']" is not a valid npm package
+[W 20:12:31.379 LabApp] Unhandled error
+[E 20:12:31.379 LabApp] {
+      "Host": "125.216.241.246:7070",
+      "Connection": "keep-alive",
+      "X-Xsrftoken": "2|16c3ecdf|38892af47af022f2f44589386cc3a4dd|1619405290",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "*/*",
+      "Referer": "http://125.216.241.246:7070/lab?",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+      "Cookie": "_xsrf=2|16c3ecdf|38892af47af022f2f44589386cc3a4dd|1619405290; username-125-216-241-246-7070=\"2|1:0|10:1620637763|29:username-125-216-241-246-7070|44:MWVkNGY3MmY2NjQ2NGQzYjgyYzBjNTViNjVlZDg4MDY=|1f3558f1a68aa3a2e19745421fdd240ff2bd5e0da9a49408c3ebf14664222a6e\""
+    }
+[E 20:12:31.379 LabApp] 500 GET /lab/api/extensions?1620821548480 (125.216.241.119) 2521.380000ms referer=http://125.216.241.246:7070/lab?
+[E 20:12:31.379 LabApp] Uncaught exception GET /lab/api/extensions?1620821549493 (125.216.241.119)
+    HTTPServerRequest(protocol='http', host='125.216.241.246:7070', method='GET', uri='/lab/api/extensions?1620821549493', version='HTTP/1.1', remote_ip='125.216.241.119')
+    Traceback (most recent call last):
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 221, in get
+        extensions = yield self.manager.list_extensions()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 221, in get
+        extensions = yield self.manager.list_extensions()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 91, in list_extensions
+        pkg_info = yield self._get_pkg_info(name, data)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 91, in list_extensions
+        pkg_info = yield self._get_pkg_info(name, data)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 160, in _get_pkg_info
+        outdated = yield self._get_outdated()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 160, in _get_pkg_info
+        outdated = yield self._get_outdated()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 769, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 191, in _load_outdated
+        data = yield self.executor.submit(
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/tornado/gen.py", line 762, in run
+        value = future.result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/concurrent/futures/_base.py", line 432, in result
+        return self.__get_result()
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+        raise self._exception
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+        result = self.fn(*self.args, **self.kwargs)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/commands.py", line 542, in get_latest_compatible_package_versions
+        return handler.latest_compatible_package_versions(names)
+      File "/home/b3432/anaconda3/envs/seven/lib/python3.8/site-packages/jupyterlab/commands.py", line 1683, in latest_compatible_package_versions
+        raise ValueError(msg % keys)
+    ValueError: "['@jupyterlab/toc@4.0.0', 'jupyterlab-spreadsheet@0.3.2', '@kiteco/jupyterlab-kite@1.2.0']" is not a valid npm package
+[W 20:12:31.379 LabApp] Unhandled error
+[E 20:12:31.379 LabApp] {
+      "Host": "125.216.241.246:7070",
+      "Connection": "keep-alive",
+      "X-Xsrftoken": "2|16c3ecdf|38892af47af022f2f44589386cc3a4dd|1619405290",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "*/*",
+      "Referer": "http://125.216.241.246:7070/lab?",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+      "Cookie": "_xsrf=2|16c3ecdf|38892af47af022f2f44589386cc3a4dd|1619405290; username-125-216-241-246-7070=\"2|1:0|10:1620637763|29:username-125-216-241-246-7070|44:MWVkNGY3MmY2NjQ2NGQzYjgyYzBjNTViNjVlZDg4MDY=|1f3558f1a68aa3a2e19745421fdd240ff2bd5e0da9a49408c3ebf14664222a6e\""
+    }
+[E 20:12:31.379 LabApp] 500 GET /lab/api/extensions?1620821549493 (125.216.241.119) 1882.200000ms referer=http://125.216.241.246:7070/lab?

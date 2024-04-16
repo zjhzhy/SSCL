@@ -1,0 +1,19 @@
+authorName: seven
+experimentName: raf_backbone
+trialConcurrency: 2
+maxExecDuration: 72h
+maxTrialNum: 50
+trainingServicePlatform: local
+searchSpacePath: zhy_space.json
+useAnnotation: false
+tuner:
+  builtinTunerName: GridSearch
+localConfig:
+  useActiveGpu: true
+  maxTrialNumPerGpu: 1
+  gpuIndices: '0,1'
+trial:
+  command: python3 raf_emd.py --target_layers 4
+  codeDir: .
+
+

@@ -1,0 +1,41 @@
+{
+  "pool_size": {
+    "_type": "choice",
+    "_value": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "target_layers": {
+    "_type": "choice",
+    "_value": [
+      "4",
+      "34",
+      "234"
+    ]
+  },
+  "alpha": {
+    "_type": "quniform",
+    "_value": [
+      0.2,
+      0.6,
+      0.1
+    ]
+  },
+  "backbone": {
+    "_type": "choice",
+    "_value": [
+      "resnet18",
+      "resnet50"
+    ]
+  },
+  "pretrained": {
+    "_type": "choice",
+    "_value": [
+      true,
+      false
+    ]
+  }
+}
